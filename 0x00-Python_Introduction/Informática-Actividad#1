@@ -1,0 +1,3 @@
+print("Hola Mundo")
+print("Mi nombre es Juan Pablo Cardozo De La Hoz")
+print("Hoy es miercoles 27/07/2022 y son las 7:44 AM")
